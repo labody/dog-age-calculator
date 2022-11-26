@@ -1,4 +1,5 @@
 # Dog Age Calculator
 
-![](images/user-input.png) ![](images/result-screen.png)
+
+![](images/welcome-screen.png)![](images/user-input.png)![](images/result-screen.png)
 
